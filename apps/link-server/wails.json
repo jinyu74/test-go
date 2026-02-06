@@ -1,0 +1,15 @@
+{
+  "assetdir": "frontend/dist",
+  "frontend:build": "pnpm build",
+  "frontend:dev:watcher": "pnpm dev",
+  "frontend:dir": "frontend",
+  "frontend:install": "pnpm install",
+  "info": {
+    "companyName": "Vuno",
+    "productName": "Link Server"
+  },
+  "name": "link-server",
+  "outputfilename": "link-server",
+  "version": "0.1.0",
+  "wailsjsdir": "frontend/wailsjs"
+}

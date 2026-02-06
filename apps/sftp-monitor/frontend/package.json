@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "vite": "^7.1.4"
+  },
+  "name": "sftp-monitor-frontend",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite build --watch",
+    "preview": "vite preview"
+  },
+  "version": "0.1.0"
+}

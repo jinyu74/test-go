@@ -1,0 +1,15 @@
+{
+  "name": "project-go",
+  "outputfilename": "project-go",
+  "version": "0.1.0",
+  "assetdir": "frontend/dist",
+  "frontend:dir": "frontend",
+  "frontend:install": "pnpm install",
+  "frontend:build": "pnpm build",
+  "frontend:dev:watcher": "pnpm dev",
+  "wailsjsdir": "frontend/wailsjs",
+  "info": {
+    "productName": "Project Go",
+    "companyName": "Your Company"
+  }
+}

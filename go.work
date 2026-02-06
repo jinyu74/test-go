@@ -1,0 +1,9 @@
+go 1.25
+
+use (
+	./apps/desktop
+	./apps/link-server
+	./apps/sftp-monitor
+	./libs/shared
+	./tools
+)

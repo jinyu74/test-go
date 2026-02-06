@@ -1,0 +1,18 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Wails output
+apps/desktop/build/
+apps/desktop/frontend/dist/
+apps/desktop/frontend/node_modules/
+apps/desktop/frontend/wailsjs/
+apps/desktop/wailsjs/
+
+# OS
+.DS_Store

@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "vite": "^7.1.4"
+  },
+  "name": "link-server-frontend",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite build --watch",
+    "preview": "vite preview"
+  },
+  "version": "0.1.0"
+}
